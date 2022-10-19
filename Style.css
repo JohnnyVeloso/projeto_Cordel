@@ -56,6 +56,16 @@ main {
     font-family: var(--fonte3);
     font-size: 40px;
     margin-top: 30px;
-    margin-left: 20px;
+    
 }
 
+
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
